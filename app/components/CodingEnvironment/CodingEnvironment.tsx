@@ -1,6 +1,6 @@
 import LessonPanel from "./LessonPanel";
 import CodeEditor from "./CodeEditor";
-import Terminal from "./Terminal";
+import Output from "./Output";
 
 export default function CodingEnvironment() {
   return (
@@ -14,7 +14,7 @@ export default function CodingEnvironment() {
         </section>
       </div>
       <footer className="h-1/3 border border-gray-300 bg-gray-900 rounded shadow-sm">
-        <Terminal />
+        <Output />
       </footer>
     </div>
   );

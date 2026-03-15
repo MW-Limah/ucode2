@@ -1,10 +1,11 @@
+// Criar função que importa a versão atual toda vez que atualizar na API
 export const LANGUAGES_VERSIONS = {
-  javascript: "22.14.0",
-  typescript: "5.7.3",
-  python: "3.13.2",
-  java: "21.0.6",
-  csharp: "13.0.0",
-  php: "8.4.4",
+  javascript: "18.15.0",
+  typescript: "5.0.3",
+  python: "3.10.0",
+  java: "15.0.2",
+  csharp: "6.12.0",
+  php: "8.2.3",
 };
 
 export const CODE_SNIPPETS = {
