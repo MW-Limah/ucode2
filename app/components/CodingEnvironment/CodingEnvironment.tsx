@@ -1,6 +1,6 @@
-import LessonPanel from "./LessonPanel/LessonPanel";
-import CodeEditor from "./CodeEditor/CodeEditor";
-import Terminal from "./Terminal/Terminal";
+import LessonPanel from "./LessonPanel";
+import CodeEditor from "./CodeEditor";
+import Terminal from "./Terminal";
 
 export default function CodingEnvironment() {
   return (

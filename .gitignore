@@ -1,5 +1,8 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
+/Projeto.docx
+/start_nova_tech_projeto.pdf
+
 # dependencies
 /node_modules
 /.pnp
